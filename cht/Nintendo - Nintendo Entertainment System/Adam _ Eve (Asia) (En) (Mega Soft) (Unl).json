@@ -1,0 +1,9 @@
+[
+  "P1 & P2 invincible",
+  "P1 & P2 infinite lives",
+  "P1 balloon level (valid value range is 0-2)",
+  "P2 balloon level (valid value range is 0-2)",
+  "Bird never drops eggs",
+  "Complete current level",
+  "Warp to level XX upon completion of current level (valid value range is 10-49)"
+]

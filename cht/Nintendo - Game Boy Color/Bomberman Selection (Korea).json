@@ -1,0 +1,8 @@
+[
+  "Make Game Boy Compatible",
+  "Fix Super Game Boy header",
+  "Enable leftover Super Game Boy support from Bomberman Collection",
+  "Load the unused Super Game Boy border from Same Game",
+  "Load the unused Super Game Boy border from Same Game in both games",
+  "Loads unused GBC CGB-only screen and palette in CGB mode"
+]

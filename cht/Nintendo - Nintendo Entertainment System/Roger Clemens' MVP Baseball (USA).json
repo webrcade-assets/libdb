@@ -1,0 +1,20 @@
+[
+  "2 strikes and you're out",
+  "1 strike and you're out",
+  "Strikes are not called when batter doesn't swing",
+  "Strikes are not called when batter swings",
+  "1 ball for a walk",
+  "2 balls for a walk",
+  "3 balls for walk",
+  "Infinite balls (balls are not called)",
+  "Infinite balls and strikes",
+  "Runs For Your Team",
+  "Balls",
+  "Strikes",
+  "Team 2 Score",
+  "P1 Score Modifier",
+  "P2/CPU Score Modifier",
+  "Strike Modifier",
+  "Balls Modifier",
+  "Outs Modifier"
+]

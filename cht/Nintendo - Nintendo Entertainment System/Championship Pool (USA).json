@@ -1,0 +1,16 @@
+[
+  "1 foul loses the game instead of 3 (only in 10-ball in party mode)",
+  "2 fouls in a row loses the game (only on 9- and 10-ball in party mode)",
+  "Fouls don't count (only on 9- and 10-ball and rotation in party mode)",
+  "Number of fouls is not cleared after a good shot (only on 10-ball in party mode)",
+  "Player 1 always breaks in 9- or 10-ball",
+  "Player 2 always breaks in 9- or 10-ball",
+  "Player 1 Always Breaks In 9 Or 10-Ball",
+  "Player 2 Always Breaks In 9 Or 10-Ball",
+  "P1 Score Modifier (FF For 'High Score')",
+  "P1 Has A -247 Score",
+  "P2 Score Modifier (FF For 'High Score')",
+  "P2 Has A -247 Score",
+  "Heads Or Tails Modifier",
+  "Menu Modifier"
+]

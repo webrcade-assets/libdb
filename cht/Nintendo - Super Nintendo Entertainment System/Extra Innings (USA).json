@@ -1,0 +1,23 @@
+[
+  "Game lasts 1 inning",
+  "Game lasts 2 innings",
+  "Game lasts 3 innings",
+  "Game lasts 4 innings",
+  "Game lasts 5 innings",
+  "Game lasts 7 innings",
+  "1 strike and batter's out",
+  "2 strikes and batter's out",
+  "Batter never strikes out",
+  "1 ball and batter walks",
+  "2 balls and batter walks",
+  "3 balls and batter walks",
+  "Batter never walks",
+  "1 out per inning",
+  "2 outs per inning",
+  "Strike Modifier",
+  "Out Modifier",
+  "Ball Modifier",
+  "Score Modifier (Team 1)",
+  "Score Modifier (Team 2)",
+  "Inning Modifier"
+]

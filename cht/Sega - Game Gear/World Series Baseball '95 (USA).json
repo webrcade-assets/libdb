@@ -1,0 +1,16 @@
+[
+  "Count always no Strikes",
+  "Count always 2 Strikes",
+  "Count always no Balls",
+  "Count always 3 Balls",
+  "Always no Outs in Inning",
+  "Always 2 Outs in Inning",
+  "Away Team Runs Modifier",
+  "Home Team Runs Modifier",
+  "Strikes don't Count",
+  "Balls don't Count",
+  "Strikeouts don't Count",
+  "Outs on Balls-in-Play and the Bases don't Count",
+  "Away Team can't Score",
+  "Home Team can't Score"
+]

@@ -1,0 +1,20 @@
+[
+  "Some strikes aren't counted",
+  "1 strike and you're out",
+  "2 strikes and you're out",
+  "Balls aren't counted",
+  "Strike outs aren't counted",
+  "Each strike out counts as 3 outs",
+  "Each strike out counts as 2 outs",
+  "5 strike outs allowed",
+  "Computer can't score",
+  "High Score P1",
+  "Runs In The Inning Modifier P1",
+  "No Score P2/CPU",
+  "Runs In The Inning Modifier P2",
+  "Strikes Modifier",
+  "Outs Modifier",
+  "Balls Are Strikes",
+  "Auto Fielding 1 Player Game",
+  "Auto Fielding 2 Player Game"
+]

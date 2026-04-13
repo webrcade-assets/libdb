@@ -1,0 +1,22 @@
+[
+  "Period clock runs faster",
+  "Period clock runs slower",
+  "Period clock runs much faster",
+  "Period clock runs much slower",
+  "Period clock is frozen [no time limit]",
+  "Each period lasts 1 minute instead of 10 minutes",
+  "Each period lasts 2 minutes",
+  "Each period lasts 3 minutes",
+  "Each period lasts 4 minutes",
+  "Each period lasts 15 minutes",
+  "Each period lasts 30 minutes",
+  "Each period lasts 40 minutes",
+  "Each period lasts 60 minutes",
+  "All penalties last 1 minute",
+  "All penalties last 2 minutes",
+  "All penalties last 3 minutes",
+  "All penalties last 4 minutes",
+  "All penalties last 5 minutes",
+  "All penalties last 7 minutes",
+  "All penalties last 9 minutes"
+]

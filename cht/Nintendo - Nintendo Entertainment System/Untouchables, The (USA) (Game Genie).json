@@ -1,0 +1,22 @@
+[
+  "Start On Scene 2",
+  "Start On Scene 3",
+  "Start On Scene 4",
+  "Start On Scene 5",
+  "Start On Scene 7",
+  "Infinite Time On Scenes 1 And 4",
+  "More Time On Scene 1",
+  "Less Time On Scene 1",
+  "More Time On Scene 2",
+  "Less Time On Scene 2",
+  "More Time On Scene 3",
+  "Less Time On Scene 3",
+  "More Time On Scene 5",
+  "Less Time On Scene 5",
+  "More Time On Scene 7",
+  "Infinite Energy On Scenes 1 And 4 Only",
+  "Infinite Energy On Scene 2 Only",
+  "More Ammo Picked Up On Scene 2",
+  "Less Ammo Picked Up On Scene 2",
+  "More Ammo Picked Up On Scene 7"
+]

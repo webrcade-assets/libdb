@@ -1,0 +1,19 @@
+[
+  "Short wait for next characters",
+  "Really short wait for next characters",
+  "Really long wait for next characters",
+  "Freeze characters for a short time (press 'Down')",
+  "Need only 1 Victory Egg to win",
+  "Need only 2 Victory Eggs to win",
+  "Score Modifier (One's Digit)",
+  "Score Modifier (Ten's Digit)",
+  "Score Modifier (Hundred's Digit)",
+  "Score Modifier (Thousand's Digit)",
+  "Score Modifier (Ten Thousand's Digit)",
+  "Score Modifier (Hundred Thousand's Digit)",
+  "Change Level Difficulty Sprite",
+  "Change Gametype Selector Sprite",
+  "Change The Speed Cursor Sprite",
+  "Change BGM Selector Sprite",
+  "Change Yoshi's Sprite"
+]
