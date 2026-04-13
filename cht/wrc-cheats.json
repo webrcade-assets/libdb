@@ -485,8 +485,8 @@
         "count": 2
       },
       "Double Dragon": {
-        "file": "Double Dragon (Rumbles).cht",
-        "count": 2
+        "file": "Double Dragon.cht",
+        "count": 4
       },
       "Dual Pacman": {
         "file": "Dual Pacman.cht",
@@ -6331,8 +6331,8 @@
         "count": 12
       },
       "3 Ninjas Kick Back": {
-        "file": "3 Ninjas Kick Back (Rumbles).cht",
-        "count": 1
+        "file": "3 Ninjas Kick Back (USA) (Action Replay).cht",
+        "count": 8
       },
       "3x3 Eyes - Juuma Houkan": {
         "file": "3x3 Eyes - Juuma Houkan (Japan) (Action Replay).cht",
@@ -6345,10 +6345,6 @@
       "46億年物語": {
         "file": "46億年物語 (繁).cht",
         "count": 12
-      },
-      "7th Saga": {
-        "file": "7th Saga (Rumbles).cht",
-        "count": 1
       },
       "7th Saga, The": {
         "file": "7th Saga, The (USA) (Action Replay).cht",
@@ -7755,8 +7751,8 @@
         "count": 55
       },
       "Final Fight": {
-        "file": "Final Fight (Rumbles).cht",
-        "count": 1
+        "file": "Final Fight (USA).cht",
+        "count": 47
       },
       "Final Fight 2": {
         "file": "Final Fight 2 (Europe).cht",
@@ -8015,8 +8011,8 @@
         "count": 43
       },
       "Gradius III": {
-        "file": "Gradius III (Rumbles).cht",
-        "count": 3
+        "file": "Gradius III (USA).cht",
+        "count": 82
       },
       "Great Battle Gaiden 2, The - Matsuri da Wasshoi": {
         "file": "Great Battle Gaiden 2, The - Matsuri da Wasshoi (Japan).cht",
@@ -8626,10 +8622,6 @@
         "file": "Legend of The Mystical Ninja, The (USA, Europe) (Action Replay).cht",
         "count": 5
       },
-      "Legend of Zelda The - A Link to th": {
-        "file": "Legend of Zelda The - A Link to th (Rumbles).cht",
-        "count": 8
-      },
       "Legend of Zelda, The - A Link to the Past": {
         "file": "Legend of Zelda, The - A Link to the Past (USA).cht",
         "count": 437
@@ -8882,14 +8874,6 @@
         "file": "Mega Man X (Europe).cht",
         "count": 3
       },
-      "Mega Man X 2": {
-        "file": "Mega Man X 2 (Rumbles).cht",
-        "count": 4
-      },
-      "Mega Man X 3": {
-        "file": "Mega Man X 3 (Rumbles).cht",
-        "count": 4
-      },
       "Mega Man X2": {
         "file": "Mega Man X2 (USA).cht",
         "count": 162
@@ -9023,8 +9007,8 @@
         "count": 123
       },
       "Mortal Kombat II": {
-        "file": "Mortal Kombat II (Rumbles).cht",
-        "count": 1
+        "file": "Mortal Kombat II (USA) (Rev 1).cht",
+        "count": 41
       },
       "Mortal Kombat II - Kyuukyoku Shinken": {
         "file": "Mortal Kombat II - Kyuukyoku Shinken (Japan) (En).cht",
@@ -9079,8 +9063,8 @@
         "count": 4
       },
       "NBA Jam - Tournament Edition": {
-        "file": "NBA Jam - Tournament Edition (Rumbles).cht",
-        "count": 2
+        "file": "NBA Jam - Tournament Edition (USA) (Beta).cht",
+        "count": 10
       },
       "NBA Live 95": {
         "file": "NBA Live 95 (USA).cht",
@@ -9205,10 +9189,6 @@
       "Ninja Gaiden Trilogy": {
         "file": "Ninja Gaiden Trilogy (USA).cht",
         "count": 123
-      },
-      "Ninja Warriors The": {
-        "file": "Ninja Warriors The (Rumbles).cht",
-        "count": 1
       },
       "Ninjawarriors": {
         "file": "Ninjawarriors (USA) (Action Replay) (diff).cht",
@@ -9810,17 +9790,13 @@
         "file": "SeaQuest DSV (USA, Europe) (Game Genie).cht",
         "count": 7
       },
-      "Seaquest Dsv": {
-        "file": "Seaquest Dsv (Rumbles).cht",
-        "count": 3
-      },
       "Secret of Evermore": {
         "file": "Secret of Evermore (USA).cht",
         "count": 400
       },
       "Secret of Mana": {
-        "file": "Secret of Mana (Rumbles).cht",
-        "count": 3
+        "file": "Secret of Mana (USA).cht",
+        "count": 554
       },
       "Secret of Mana Rev 1": {
         "file": "Secret of Mana Rev 1 (1994)(Square)(EU)(en)[tr es][a2].cht",
@@ -10275,8 +10251,8 @@
         "count": 2
       },
       "Super Castlevania IV": {
-        "file": "Super Castlevania IV (Rumbles).cht",
-        "count": 6
+        "file": "Super Castlevania IV (USA).cht",
+        "count": 63
       },
       "Super Chase H.Q.": {
         "file": "Super Chase H.Q. (USA).cht",
@@ -10385,10 +10361,6 @@
       "Super Mario Kart": {
         "file": "Super Mario Kart (USA).cht",
         "count": 269
-      },
-      "Super Mario RPG - Legend of the Se": {
-        "file": "Super Mario RPG - Legend of the Se (Rumbles).cht",
-        "count": 1
       },
       "Super Mario RPG - Legend of the Seven Stars": {
         "file": "Super Mario RPG - Legend of the Seven Stars (USA) (Action Replay).cht",
@@ -10555,8 +10527,8 @@
         "count": 7
       },
       "Super Turrican": {
-        "file": "Super Turrican (Rumbles).cht",
-        "count": 1
+        "file": "Super Turrican (USA).cht",
+        "count": 60
       },
       "Super Turrican 2": {
         "file": "Super Turrican 2 (USA).cht",
@@ -10661,10 +10633,6 @@
       "Teenage Mutant Ninja Turtles - Turtles in Time": {
         "file": "Teenage Mutant Ninja Turtles - Turtles in Time (Japan).cht",
         "count": 7
-      },
-      "Teenage Mutant Ninja Turtles I": {
-        "file": "Teenage Mutant Ninja Turtles I (Rumbles).cht",
-        "count": 6
       },
       "Teenage Mutant Ninja Turtles IV - Turtles in Time": {
         "file": "Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 1).cht",
@@ -14532,10 +14500,6 @@
         "file": "007 - The World Is Not Enough (USA, Europe) (Game Genie).cht",
         "count": 1
       },
-      "10-Pin Bowling": {
-        "file": "10-Pin Bowling (USA) (Rumble Version).cht",
-        "count": 2
-      },
       "102 Dalmatians - Puppies to the Rescue": {
         "file": "102 Dalmatians - Puppies to the Rescue (USA, Europe) (GameShark).cht",
         "count": 5
@@ -14851,10 +14815,6 @@
       "Chase H.Q. - Secret Police": {
         "file": "Chase H.Q. - Secret Police (Europe) (SGB Enhanced) (GB Compatible).cht",
         "count": 3
-      },
-      "Chee-Chai Alien": {
-        "file": "Chee-Chai Alien (Japan) (Rumble Version).cht",
-        "count": 4
       },
       "Chessmaster": {
         "file": "Chessmaster (USA, Europe) (GB Compatible).cht",
@@ -15220,10 +15180,6 @@
         "file": "Hiryuu no Ken - Retsuden GB (Japan).cht",
         "count": 3
       },
-      "Hole in One Golf": {
-        "file": "Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).cht",
-        "count": 2
-      },
       "Horrible Demon 2, The": {
         "file": "Horrible Demon 2, The (Public Domain) (GameShark).cht",
         "count": 3
@@ -15381,8 +15337,8 @@
         "count": 4
       },
       "Little Mermaid II, The - Pinball Frenzy": {
-        "file": "Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version).cht",
-        "count": 5
+        "file": "Little Mermaid II, The - Pinball Frenzy (USA, Europe) (GameShark).cht",
+        "count": 3
       },
       "Little Nicky": {
         "file": "Little Nicky (USA) (GameShark).cht",
@@ -15609,8 +15565,8 @@
         "count": 1
       },
       "Missile Command": {
-        "file": "Missile Command (USA) (Rumble Version).cht",
-        "count": 4
+        "file": "Missile Command (USA, Europe) (Game Genie).cht",
+        "count": 8
       },
       "Mission - Impossible": {
         "file": "Mission - Impossible (USA) (En,Fr,Es).cht",
@@ -15691,10 +15647,6 @@
       "NASCAR 2000": {
         "file": "NASCAR 2000 (USA, Europe) (Xploder).cht",
         "count": 1
-      },
-      "NASCAR Challenge": {
-        "file": "NASCAR Challenge (USA) (Rumble Version).cht",
-        "count": 2
       },
       "NASCAR Heat": {
         "file": "NASCAR Heat (USA) (GameShark).cht",
@@ -15793,7 +15745,7 @@
         "count": 2
       },
       "Perfect Dark": {
-        "file": "Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).cht",
+        "file": "Perfect Dark (USA, Europe) (GameShark).cht",
         "count": 11
       },
       "Pitfall - Beyond the Jungle": {
@@ -15901,8 +15853,8 @@
         "count": 4
       },
       "Pokemon Pinball": {
-        "file": "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible).cht",
-        "count": 2
+        "file": "Pokemon Pinball (World) (Xploder).cht",
+        "count": 10
       },
       "Pokemon Puzzle Challenge": {
         "file": "Pokemon Puzzle Challenge (USA, Australia).cht",
@@ -15915,10 +15867,6 @@
       "Pokemon Trading Card Game - ENG1": {
         "file": "Pokemon Trading Card Game - ENG1 (USA, Europe) (Xploder).cht",
         "count": 7
-      },
-      "Polaris SnoCross": {
-        "file": "Polaris SnoCross (USA) (Rumble Version).cht",
-        "count": 2
       },
       "Pong - The Next Level": {
         "file": "Pong - The Next Level (USA, Europe) (Xploder).cht",
@@ -16041,8 +15989,8 @@
         "count": 6
       },
       "Ready 2 Rumble Boxing": {
-        "file": "Ready 2 Rumble Boxing (USA) (Rumble Version).cht",
-        "count": 7
+        "file": "Ready 2 Rumble Boxing (USA, Europe) (Xploder).cht",
+        "count": 5
       },
       "Rescue Heroes - Fire Frenzy": {
         "file": "Rescue Heroes - Fire Frenzy (USA) (GameShark).cht",
@@ -16257,8 +16205,8 @@
         "count": 9
       },
       "Star Wars Episode I - Racer": {
-        "file": "Star Wars Episode I - Racer (USA, Europe) (Rumble Version).cht",
-        "count": 3
+        "file": "Star Wars Episode I - Racer (USA, Europe) (Xploder).cht",
+        "count": 4
       },
       "Street Fighter Alpha - Warriors' Dreams": {
         "file": "Street Fighter Alpha - Warriors' Dreams (USA).cht",
@@ -16428,10 +16376,6 @@
         "file": "Toonsylvania (USA).cht",
         "count": 4
       },
-      "Top Gear Pocket": {
-        "file": "Top Gear Pocket (USA) (Rumble Version).cht",
-        "count": 8
-      },
       "Top Gear Pocket 2": {
         "file": "Top Gear Pocket 2 (USA).cht",
         "count": 13
@@ -16523,10 +16467,6 @@
       "V-Rally - Edition 99": {
         "file": "V-Rally - Edition 99 (USA) (En,Fr,Es).cht",
         "count": 2
-      },
-      "Vigilante 8": {
-        "file": "Vigilante 8 (USA) (Rumble Version).cht",
-        "count": 10
       },
       "WCW Mayhem": {
         "file": "WCW Mayhem (USA, Europe) (Xploder).cht",
@@ -33420,10 +33360,6 @@
         "file": "Alex Kidd - Tenkuu Majou (Japan).cht",
         "count": 5
       },
-      "Alex Kidd In The Enchanted Cast": {
-        "file": "Alex Kidd In The Enchanted Cast (Rumbles).cht",
-        "count": 3
-      },
       "Alex Kidd in the Enchanted Castle": {
         "file": "Alex Kidd in the Enchanted Castle (Europe).cht",
         "count": 4
@@ -36589,8 +36525,8 @@
         "count": 39
       },
       "Sonic The Hedgehog 3": {
-        "file": "Sonic The Hedgehog 3 (Rumbles).cht",
-        "count": 1
+        "file": "Sonic The Hedgehog 3 (USA).cht",
+        "count": 166
       },
       "Sonic Knuckles": {
         "file": "Sonic _ Knuckles (World) (Action Replay).cht",
@@ -37487,14 +37423,6 @@
       "Wonder Boy III - Monster Lair": {
         "file": "Wonder Boy III - Monster Lair (Japan, Europe).cht",
         "count": 17
-      },
-      "Wonder Boy Monster World Iii": {
-        "file": "Wonder Boy Monster World Iii (Rumbles).cht",
-        "count": 1
-      },
-      "Wonder Boy Monster World Iv": {
-        "file": "Wonder Boy Monster World Iv (Rumbles).cht",
-        "count": 1
       },
       "Wonder Boy V - Monster World III": {
         "file": "Wonder Boy V - Monster World III (Japan, Korea).cht",
@@ -38807,8 +38735,8 @@
         "count": 4
       },
       "Rastan": {
-        "file": "Rastan (Rumbles).cht",
-        "count": 1
+        "file": "Rastan (USA, Europe) (Action Replay).cht",
+        "count": 4
       },
       "Reggie Jackson Baseball": {
         "file": "Reggie Jackson Baseball (USA) (Action Replay) (diff).cht",
@@ -41193,8 +41121,8 @@
         "count": 3
       },
       "China Warrior": {
-        "file": "China Warrior (Rumbles).cht",
-        "count": 1
+        "file": "China Warrior (USA).cht",
+        "count": 2
       },
       "Chouzetsurinjin Bravoman": {
         "file": "Chouzetsurinjin Bravoman (Japan).cht",
@@ -41519,10 +41447,6 @@
       "Jackie Chan's Action Kung Fu": {
         "file": "Jackie Chan's Action Kung Fu (USA).cht",
         "count": 4
-      },
-      "Jackie Chans Action Kung Fu": {
-        "file": "Jackie Chans Action Kung Fu (Rumbles).cht",
-        "count": 1
       },
       "Jaseiken Necromancer": {
         "file": "Jaseiken Necromancer (Japan).cht",
