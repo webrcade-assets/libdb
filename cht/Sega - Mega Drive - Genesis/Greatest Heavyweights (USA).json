@@ -12,7 +12,6 @@
   "Infinite Time",
   "Developed For Use Only With Ntsc Genesis System",
   "Player 2's face is missing (while boxing)",
-  "Automatically skips the &quot;ready to Rumble&quot; introduction",
   "Leaves off the last letter of the name of both boxers (don't know if this can be used to rename boxers or not)",
   "Anytime a boxer with a small build (Rocky Marciano, Joe Frazier, etc.) taunts, the ropes look glitchy (I've tried playing with this code to see if I could find a way to make the ropes invisible. I've only succeeded in getting the game to freeze.)",
   "Play as ranked competitor modifier in Career Mode",
