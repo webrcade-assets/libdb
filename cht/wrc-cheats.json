@@ -26,45 +26,7 @@
       "esb": "esb.cht"
     }
   },
-  "7800": {
-    "path": "cht/Atari - 7800",
-    "games": {
-      "Alien Brigade": "Alien Brigade (Rumbles).cht",
-      "Asteroids": "Asteroids.cht",
-      "Basketbrawl": "Basketbrawl.cht",
-      "Beef Drop Demo": "Beef Drop Demo (Rumbles).cht",
-      "Bonq Demo 16jun07": "Bonq Demo 16jun07.cht",
-      "Bonq Demo": "Bonq Demo.cht",
-      "Centipede": "Centipede.cht",
-      "Choplifter": "Choplifter.cht",
-      "Commando": "Commando.cht",
-      "Dark Chambers": "Dark Chambers.cht",
-      "Desert Falcon": "Desert Falcon.cht",
-      "Dig Dug": "Dig Dug.cht",
-      "Donkey Kong Jr": "Donkey Kong Jr.cht",
-      "Donkey Kong": "Donkey Kong.cht",
-      "Double Dragon": "Double Dragon (Rumbles).cht",
-      "Dual Pacman": "Dual Pacman.cht",
-      "Food Fight": "Food Fight.cht",
-      "Galaga": "Galaga.cht",
-      "Ikari Warriors": "Ikari Warriors (Rumbles).cht",
-      "Joust": "Joust.cht",
-      "Karateka": "Karateka.cht",
-      "Kung Fu Master": "Kung Fu Master (Rumbles).cht",
-      "Mario Brothers": "Mario Brothers.cht",
-      "Midnight Mutants": "Midnight Mutants (Rumbles).cht",
-      "Ms. Pac-Man": "Ms. Pac-Man.cht",
-      "Ninja Golf": "Ninja Golf (Rumbles).cht",
-      "Pacman Collection": "Pacman Collection.cht",
-      "Planet Smashers": "Planet Smashers (Rumbles).cht",
-      "Rampage": "Rampage.cht",
-      "Robotron 2084": "Robotron 2084.cht",
-      "Scrapyard Dog": "Scrapyard Dog.cht",
-      "Tank Command": "Tank Command.cht",
-      "Tower Toppler": "Tower Toppler.cht"
-    }
-  },
-  "a5200": {
+  "5200": {
     "path": "cht/Atari - 5200",
     "games": {
       "Ae": "Ae.cht",
@@ -149,6 +111,44 @@
       "Zaxxon": "Zaxxon.cht",
       "Zenji": "Zenji.cht",
       "Zone Ranger": "Zone Ranger.cht"
+    }
+  },
+  "7800": {
+    "path": "cht/Atari - 7800",
+    "games": {
+      "Alien Brigade": "Alien Brigade (Rumbles).cht",
+      "Asteroids": "Asteroids.cht",
+      "Basketbrawl": "Basketbrawl.cht",
+      "Beef Drop Demo": "Beef Drop Demo (Rumbles).cht",
+      "Bonq Demo 16jun07": "Bonq Demo 16jun07.cht",
+      "Bonq Demo": "Bonq Demo.cht",
+      "Centipede": "Centipede.cht",
+      "Choplifter": "Choplifter.cht",
+      "Commando": "Commando.cht",
+      "Dark Chambers": "Dark Chambers.cht",
+      "Desert Falcon": "Desert Falcon.cht",
+      "Dig Dug": "Dig Dug.cht",
+      "Donkey Kong Jr": "Donkey Kong Jr.cht",
+      "Donkey Kong": "Donkey Kong.cht",
+      "Double Dragon": "Double Dragon (Rumbles).cht",
+      "Dual Pacman": "Dual Pacman.cht",
+      "Food Fight": "Food Fight.cht",
+      "Galaga": "Galaga.cht",
+      "Ikari Warriors": "Ikari Warriors (Rumbles).cht",
+      "Joust": "Joust.cht",
+      "Karateka": "Karateka.cht",
+      "Kung Fu Master": "Kung Fu Master (Rumbles).cht",
+      "Mario Brothers": "Mario Brothers.cht",
+      "Midnight Mutants": "Midnight Mutants (Rumbles).cht",
+      "Ms. Pac-Man": "Ms. Pac-Man.cht",
+      "Ninja Golf": "Ninja Golf (Rumbles).cht",
+      "Pacman Collection": "Pacman Collection.cht",
+      "Planet Smashers": "Planet Smashers (Rumbles).cht",
+      "Rampage": "Rampage.cht",
+      "Robotron 2084": "Robotron 2084.cht",
+      "Scrapyard Dog": "Scrapyard Dog.cht",
+      "Tank Command": "Tank Command.cht",
+      "Tower Toppler": "Tower Toppler.cht"
     }
   },
   "nes": {
