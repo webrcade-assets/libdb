@@ -65556,5 +65556,14 @@
         "count": 13
       }
     }
+  },
+  "quake": {
+    "path": "cht/Quake",
+    "games": {
+      "Quake": {
+        "file": "Quake.cht",
+        "count": 8
+      }
+    }
   }
 }
