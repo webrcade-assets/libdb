@@ -1,0 +1,8 @@
+[
+  "Master Code",
+  "Game Speed Modifier (00-03)",
+  "Game Difficulty Modifier (00-07)",
+  "Damage Modifier (00-03)",
+  "# of CPU Rounds (00-03)",
+  "# of VS Rounds (00-03)"
+]
