@@ -66330,5 +66330,18 @@
         "count": 22
       }
     }
+  },
+  "dos": {
+    "path": "cht/DOS",
+    "games": {
+      "DOOM": {
+        "file": "DOOM.cht",
+        "count": 14
+      },
+      "Quake": {
+        "file": "Quake.cht",
+        "count": 8
+      }
+    }
   }
 }
