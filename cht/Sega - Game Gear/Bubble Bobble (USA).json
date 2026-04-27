@@ -1,7 +1,6 @@
 [
   "Infinite Lives",
   "Invincibility",
-  "Invincibility",
   "Start with 1 life",
   "Start with 9 lives",
   "Start with 15 lives",
@@ -12,8 +11,6 @@
   "Hit Anywhere Normal Enemies",
   "Invulnerability",
   "Infinite Time",
-  "Infinite Lives",
-  "Infinite Time",
   "Have All Magical Items In The Game",
   "Select 1P Continue for Round Select",
   "Invincibility against Enemies",
@@ -21,9 +18,7 @@
   "Infinite Time - Bonus Rounds (Disable to exit room)",
   "Invincibility against Deadly Monster (appears when you take too much time)",
   "Invincibility against Super Drunk Boss",
-  "Infinite Time - Bonus Rounds (Disable to exit room)",
   "Bonus Round Timer starts at 30 seconds, instead of 20",
   "Bonus Round Timer starts at 40 seconds",
-  "Pause during gameplay to get all Special Items",
-  "Select 1P Continue for Round Select"
+  "Pause during gameplay to get all Special Items"
 ]

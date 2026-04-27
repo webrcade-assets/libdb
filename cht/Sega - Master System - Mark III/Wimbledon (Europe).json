@@ -5,13 +5,11 @@
   "Max Speed",
   "Max Power",
   "Max Skill",
-  "P1 Score Modifier",
   "P2 Score Modifier",
   "P1 Games Won Modifier",
   "P2 Games Won Modifier",
   "CPU can't Score",
   "No Games scored by CPU",
   "Most Games are given to you",
-  "Infinite Attribute Points",
   "Start with ?? Attribute Points, instead of 15"
 ]

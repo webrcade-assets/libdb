@@ -17,12 +17,10 @@
   "Double Hits In Shield",
   "Triple Hits In Shield",
   "Infinite Health",
-  "Infinite Lives",
   "Hit Anywhere",
   "One Hit Kills",
   "Invincibility",
   "Infinite Time in Toxic Factory Stage",
-  "Invulnerable",
   "Move Faster",
   "Spikes Never Descend",
   "Infinite Time",
@@ -32,7 +30,5 @@
   "Don't Fall Down Pits (Isometric stages)",
   "Don't Fall Down Pits (Platform stages)",
   "Don't Fall Down Pits (Platform stages; switch off to jump)",
-  "Infinite Time",
-  "Invincibility From Spikes",
-  "Infinite Lives"
+  "Invincibility From Spikes"
 ]

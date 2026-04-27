@@ -35,7 +35,6 @@
   "Double missiles on pick-up",
   "Slow down timer",
   "Keep special weapons",
-  "Infinite Lives",
   "Infinite Health",
   "Start With Maximum Energy",
   "Sand keeps appearing in the middle of the road",
@@ -43,7 +42,6 @@
   "No Enemies",
   "Enemies Die Automatically",
   "The road doesn't split / Road is much wider",
-  "Odd Crashes",
   "Infinite Time/Health (One's Digit)",
   "Infinite Time/Health (Ten's Digit)",
   "Infinite Time/Health (Hundred's Digit)",
@@ -57,6 +55,5 @@
   "Some Cars are Destroyed Automatically",
   "Driving Score Multiplier X1,000",
   "Freeze Timer",
-  "Infinite Lives",
   "Driving Score Multiplier X10,000"
 ]

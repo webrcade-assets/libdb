@@ -57,12 +57,8 @@
   "Start in world 4, level 4.3",
   "Start in world 5, level 5.1",
   "Start in world 5, level 5.2",
-  "Infinite Lives",
-  "Infinite Energy",
   "Infinite Time",
-  "Infinite Lives",
   "Infinite Health",
-  "Infinite Time",
   "Infinite Grey Crystals (1st Weapon On HUD)",
   "Infinite Explosions (2nd Weapon On HUD)",
   "Infinite Grey Object (3rd Weapon On HUD)",
@@ -73,8 +69,5 @@
   "Jump Higher",
   "Pressing Up plants a mine",
   "Pressing Up plants a mine and you will also have infinite mines",
-  "Pressing Up plants a mine",
-  "Pressing Up plants a mine and you will also have infinite mines",
-  "Pressing Up will not make you jump",
   "Pressing Up will not make you jump"
 ]

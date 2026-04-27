@@ -9,8 +9,6 @@
   "Start with about 1/2 energy",
   "Start with about 3/4 energy",
   "Invincible",
-  "Infinite Energy",
-  "Infinite Lives",
   "Infinite PCs",
   "Infinite TA",
   "Have RC",
@@ -53,11 +51,9 @@
   "Jump As High As You Want",
   "High Jump",
   "Higher Jump",
-  "Mega Jump",
   "Super Jump",
   "Ultra Jump",
   "Enable Unused Super Game Boy SOUND Functions",
   "Always Drop Item Modifier",
-  "Enable Debug Invincibility",
   "Replace title screen with debug menu"
 ]

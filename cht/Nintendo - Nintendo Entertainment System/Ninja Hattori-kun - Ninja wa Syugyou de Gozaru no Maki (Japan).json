@@ -8,12 +8,9 @@
   "Can't Be Hit",
   "Infinite Cloud Time",
   "Area Modifier",
-  "Infinite Time",
-  "No Enemies",
   "Multi-Jump",
   "Keep Current Items After Beating An Area",
   "Fruit Pickups Don't Disappear Until Picked Up Or Left Behind",
-  "Infinite Energy",
   "Infinite Lives",
   "Start With 5 Lives",
   "Start With 10 Lives",
@@ -22,12 +19,9 @@
   "Start With 50 Lives",
   "Start With 100 Lives",
   "Start With 255 Lives",
-  "Infinite Time",
   "Start Each Level With All Items",
   "Infinite Items",
   "Use More Than 2 Items At A Time",
-  "Multi-Jump",
   "Start With Every Powerup",
-  "Start With Every Powerup (Alt)",
-  "Infinite Time"
+  "Start With Every Powerup (Alt)"
 ]

@@ -25,9 +25,6 @@
   "Infinite Credits",
   "Each Power-Up Item Is Worth 3X Normal",
   "Keep Regular Weapon Upgrade After You Lose A Life",
-  "Invincibility",
-  "Infinite Lives",
-  "Infinite Bombs",
   "1 Hit Kills Weaker Enemies",
   "1 Hit Kills Stronger Enemies",
   "Start With 9 Lives.",
@@ -45,6 +42,5 @@
   "Pause The Game, Press Up, Then Unpause For Debug Menu",
   "Always Have Wide Shot Weapon",
   "Always Have Shark Beam Weapon",
-  "Always Have Super Fire Weapon",
-  "Infinite Credits"
+  "Always Have Super Fire Weapon"
 ]

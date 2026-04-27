@@ -41,7 +41,6 @@
   "Tap B two Times for Super Jump",
   "Hold B For Auto Throw",
   "Start With Power Up Shurikin",
-  "Invincibility",
   "Start With Max Shurikens",
   "Get Max Shurikens When You Pickup Some",
   "Change Shuriken Limit From 799 To 999",
@@ -74,14 +73,8 @@
   "Regular shurikens are 5x stronger",
   "Regular shurikens are 30x stronger",
   "Jump higher",
-  "Enable 6-Button Mode",
   "Enable Alternate Sega Logo Intro",
-  "Enable Invincibility Cheat",
-  "Enable Infinite Shuriken Cheat",
   "Multi-Jump",
   "Regional Lockout Bypass",
-  "Invincibility",
-  "Infinite Health",
-  "Infinite Lives",
-  "Infinite Shurikens"
+  "Infinite Lives"
 ]

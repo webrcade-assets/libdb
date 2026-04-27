@@ -9,10 +9,8 @@
   "Start on mission 2",
   "Start on mission 3",
   "Start on mission 4",
-  "Infinite Missiles",
   "Infinite Energy",
   "Infinite Lives",
-  "Infinite Fuel",
   "Landing - Altitude",
   "Landing - Speed",
   "Always Land Safely on the Aircraft Carrier",
@@ -20,9 +18,6 @@
   "Start with 9 lives.",
   "Start with 25 lives.",
   "Start with 50 lives.",
-  "Infinite Lives",
-  "Infinite Lives",
-  "Infinite Missiles",
   "Infinite Health",
   "Invincibility"
 ]

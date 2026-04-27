@@ -37,16 +37,5 @@
   "x256",
   "x512",
   "Experience Multiplier Codes",
-  "x2",
-  "x4",
-  "x8",
-  "x16",
-  "x32",
-  "x64",
-  "x128",
-  "x256",
-  "x512",
-  "Movement Speed Multiplier Codes",
-  "x2",
-  "x4"
+  "Movement Speed Multiplier Codes"
 ]

@@ -46,12 +46,5 @@
   "x32",
   "x64",
   "x128",
-  "Exp Multiplier After Battle",
-  "x2",
-  "x4",
-  "x8",
-  "x16",
-  "x32",
-  "x64",
-  "x128"
+  "Exp Multiplier After Battle"
 ]

@@ -2,7 +2,6 @@
   "Infinite Lives",
   "Level Modifier",
   "Finish Stages Faster(buggy)",
-  "Infinite lives",
   "Start with 9 lives",
   "Start with 6 lives",
   "Start with 1 life",
@@ -11,8 +10,6 @@
   "Start on level 8",
   "Start on level 13",
   "Invincibility",
-  "Level Modifier",
-  "Infinite Lives",
   "Create Any Shape to Clear Level",
   "Infinite Time",
   "Sparks are Frozen & don't harm you",
@@ -22,7 +19,6 @@
   "Select game over cutscene",
   "Select initial game over cutscene",
   "No Qix (Also applies to the second Qix)",
-  "Infinite time",
   "No sparks",
   "Qix Only Need 1% to clear stages"
 ]

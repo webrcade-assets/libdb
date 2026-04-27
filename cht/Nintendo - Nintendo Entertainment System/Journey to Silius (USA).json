@@ -13,7 +13,6 @@
   "Start With Hand Gun, Machine Gun, Shot Gun, and Ho",
   "Start With Hand Gun, Machine Gun, Shot Gun, Lazer",
   "Start With Hand Gun, Homing Missile, And Grenade L",
-  "Start With Hand Gun, Machine Gun, Shot Gun, Lazer",
   "Start With Hand Gun, Machine Gun, Lazer, Homing Gu",
   "Infinite lives",
   "Start with 1 life",
@@ -35,12 +34,10 @@
   "Super speed",
   "Infinite Energy",
   "Infinite Weapon",
-  "Infinite Energy",
   "Invincibility",
   "Untouchable",
   "No Enemies",
   "Jump in Midair",
-  "Infinite Lives",
   "Infinite Secondary Weapon",
   "Infinite Health",
   "1 Hit Kills Bosses",
@@ -53,6 +50,5 @@
   "Have Grenade Launcher & Laser Gun",
   "Have All Regular Guns",
   "Hit Anywhere",
-  "Jump in Midair",
   "Title screen music modifier"
 ]

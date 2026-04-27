@@ -33,10 +33,7 @@
   "Start at stage 6",
   "Start at stage 7",
   "Start at stage 8",
-  "Infinite Lives",
   "Invincibility",
-  "Infinite Lives",
-  "Infinite Bombs",
   "Pause The Game To Get 8 Bombs",
   "Pause The Game And Press B To Get 8 Bombs",
   "Pause The Game To Add 1 Bomb To Your Total",
@@ -47,7 +44,6 @@
   "Pause The Game And Press A To Get Nearly Maximum Weapon Power",
   "1 Hit Kills Enemies",
   "All Weapons Are Much Stronger",
-  "Infinite Credits",
   "Invincibility (Disable Hit Detection)",
   "Always Have Red Weapon",
   "Always Have Green Weapon",
@@ -59,11 +55,6 @@
   "P-Stars Worth 4",
   "Keep Current Weapon And Weapon Power After Dying",
   "Keep P-Stars after Dying",
-  "Invincibility",
-  "Infinite Lives",
-  "Infinite Credits",
-  "Infinite Bombs",
   "Weapon Modifier",
-  "Max Weapon Power",
-  "Infinite Credits"
+  "Max Weapon Power"
 ]

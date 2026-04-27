@@ -12,19 +12,15 @@
   "Infinite Lives",
   "Have All Diamonds",
   "Always Have Wings",
-  "Invincibility",
   "Always Have 3 Mirrors",
   "Go To Final Stage",
   "Infinite Credits Activated",
-  "Infinite Lives",
   "Speed Power Up",
   "Rainbow Multiplier Power Up Modifier",
   "Have Faster Rainbow Power-Up",
-  "Have All Diamonds",
   "Infinite Continue Time",
   "Round Modifier",
   "Fast Score Gain",
-  "Invincibility",
   "Kill All Bosses In 1 Hit",
   "Keep Extra Rainbow And Faster Rainbow Power-Up After The Death",
   "Infinite Credit",
@@ -42,7 +38,5 @@
   "Select up to 50 lives at the configuration screen (instead of only 7)",
   "Infinite time in levels (the water level never starts to rise)",
   "High Jump",
-  "Super high jump",
-  "Invincibility",
-  "Infinite Credit"
+  "Super high jump"
 ]

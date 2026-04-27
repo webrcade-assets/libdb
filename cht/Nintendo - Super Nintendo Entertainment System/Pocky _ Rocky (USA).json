@@ -26,7 +26,6 @@
   "Hit Anywhere",
   "One Hit Kills",
   "Weapons Don't Deplete When Hit (Pocky)",
-  "Weapons Don't Deplete When Hit (Pocky)",
   "Walk Through Walls",
   "Enable Level Select",
   "Infinite Time",
@@ -41,7 +40,6 @@
   "6 Lives (Rocky)",
   "9 Lives (Rocky)",
   "Freezes Background And Some Enemies",
-  "Walk Through Walls",
   "Infinite Lives (Pocky)",
   "Infinite Lives (Rocky)",
   "Red Ball Acts As Blue Ball (Pocky)",
@@ -49,6 +47,5 @@
   "Infinite Energy (Pocky)",
   "Red Ball Acts As Blue Ball (Rocky)",
   "Blue Ball Acts As Red Ball (Rocky)",
-  "Infinite Energy (Rocky)",
-  "Enable Level Select"
+  "Infinite Energy (Rocky)"
 ]

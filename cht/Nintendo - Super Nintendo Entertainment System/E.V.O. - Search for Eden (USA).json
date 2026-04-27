@@ -47,7 +47,6 @@
   "Bosses And 1/2 of The Enemies Die With 1 Hit",
   "Other 1/2 of The Enemies Die With 1 Hit",
   "EVO",
-  "EVO",
   "HORN",
   "DEFENSE",
   "AGILITY",
@@ -55,9 +54,5 @@
   "Kick",
   "HP",
   "Bite",
-  "Jump",
-  "Horn Never Breaks",
-  "Protection From Most Hazards",
-  "Less Damage From Stronger Creatures",
-  "Food Replenishes Hit Points To Full"
+  "Jump"
 ]

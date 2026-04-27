@@ -23,18 +23,8 @@
   "Double the cost of knights",
   "Halve the cost of catapults",
   "Halve the cost of castles",
-  "Soldiers For Free",
   "Infinite Money (Always 255)",
-  "Infinite Catapult Boulders",
-  "Infinite Catapult Greek Fire",
   "Infinite Catapult Disease",
-  "Great Mace Power",
-  "255 Soldiers Army",
-  "255 Soldiers Garrison",
-  "255 Knights Army",
-  "255 Knights Garrison",
-  "255 Catapults Army",
-  "255 Catapults Garrison",
   "Battle Power (Cannot Be Beaten by Mace Or In Sword Fights!)",
   "Infinite Lives",
   "1 Hit Kills Guards When Raiding",
@@ -52,7 +42,5 @@
   "Have Max Castles",
   "Max Soldiers",
   "Max Knights",
-  "Max Catapults",
-  "Infinite Catapult Disease",
-  "Battle Power (Cannot Be Beaten by Mace Or In Sword Fights!)"
+  "Max Catapults"
 ]

@@ -71,8 +71,6 @@
   "Midknight's lunge when farther away does more damage",
   "Midknight's wheel when farther away does no damage",
   "Midknight's wheel when farther away does more damage",
-  "Midknight's lunge when farther away does no damage",
-  "Midknight's lunge when farther away does more damage",
   "Midknight's lunge when close in does less damage",
   "Midknight's lunge when close in does more damage",
   "Midknight's swing when close in does less damage",
@@ -192,7 +190,6 @@
   "Infinite Energy",
   "Hit Anywhere",
   "Player 1 Is Invincible Against Regular Hits (Better Than Previous Code)",
-  "Infinite Time",
   "Infinite Health P1",
   "No Health P2/CPU (Not Visible)",
   "P1 Win Modifier",
@@ -214,6 +211,5 @@
   "P2 Moves Slower",
   "P1 Has Shadow's Hit Protection",
   "P2 Has Shadow's Hit Protection",
-  "Regional Lockout Bypass",
   "Regional Lockout Bypass"
 ]

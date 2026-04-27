@@ -128,7 +128,6 @@
   "Anicent Ring",
   "CraftLord Ring",
   "Fireproof Ring",
-  "Flameproof Ring",
   "Mineral Bracelet",
   "Iron Bracelet",
   "Gold Bracelet",
@@ -143,7 +142,6 @@
   "Ancient Bracelet",
   "CraftLord Bracelet",
   "Water Bracelet",
-  "Marine Bracelet",
   "Leather Shoes",
   "Miner's Boots",
   "Fur Boots",
@@ -158,7 +156,6 @@
   "Ancient Boots",
   "CraftLord Boots",
   "Windproof Shoes",
-  "Windproof Boots",
   "Iron Necklace",
   "Gold Necklace",
   "Jewel Necklace",
@@ -172,6 +169,5 @@
   "Dragon Necklet",
   "Ancient Necklet",
   "CraftLord Amulet",
-  "Lightning Amulet",
-  "Storm Amulet"
+  "Lightning Amulet"
 ]

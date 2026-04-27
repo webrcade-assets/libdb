@@ -3,12 +3,10 @@
   "Invincibility",
   "Infinite Time",
   "Infinite Credits",
-  "Infinite Energy",
   "Player 1 And Player 2 Have Turbo Mode",
   "Hit Anywhere/Get Items From Anywhere",
   "One Hit Kills",
   "no grabbing",
-  "Infinite Time",
   "Your Ranger Will Not Lose His/Her HP If Enemy Hits Him/Her",
   "No HP Lost After The Special Attack (A Button)",
   "Your Rangers Are Untouchable By Regular Hits",
@@ -48,7 +46,5 @@
   "One hit kill for enemies",
   "P1 Infinite Health",
   "P2 Infinite Health",
-  "Infinite Time",
-  "Freeze Timer",
-  "Infinite Credits"
+  "Freeze Timer"
 ]

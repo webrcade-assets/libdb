@@ -13,7 +13,6 @@
   "7 lives",
   "10 lives",
   "Infinite lives",
-  "Infinite energy",
   "Reversible skateboard",
   "Faster running",
   "Don't lose energy from hitting objects",
@@ -58,7 +57,6 @@
   "Never Lose Power Ups - Slot 3",
   "Never Lose Power Ups - Slot 4",
   "Never Lose Power Ups - Slot 5",
-  "Infinite Lives",
   "Always Have Axe",
   "Invincible",
   "Infinite Power Up Slot 1",
@@ -145,6 +143,5 @@
   "Different Stage Color Arrangement 1",
   "Different Stage Color Arrangement 2",
   "Movement Speed Modifier",
-  "Distorted Stages",
-  "Infinite Jump"
+  "Distorted Stages"
 ]

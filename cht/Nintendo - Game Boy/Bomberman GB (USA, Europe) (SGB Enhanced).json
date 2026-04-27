@@ -1,13 +1,9 @@
 [
   "Infinite Time",
-  "Infinite Time",
   "Infinite Lives",
   "Explosions Modifier [00-07]",
   "Place Bombs Modifier",
   "Invincibility",
-  "Invincibility",
-  "Infinite Time",
-  "Infinite Lives",
   "Infinite Energy",
   "Hit Anywhere",
   "Bombs Can Break Any Block",
@@ -17,6 +13,5 @@
   "Load Border 1 Unused Placeholder Tiles",
   "Load Border 2 Unused Placeholder Tiles",
   "Always Load Border 1",
-  "Always Load Border 2",
-  "Exit Always Open"
+  "Always Load Border 2"
 ]

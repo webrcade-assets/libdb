@@ -16,7 +16,6 @@
   "Only 10 Magnum Bullets allowed",
   "50 Magnum Bullets allowed",
   "Infinite Health",
-  "Infinite Lives",
   "Infinite Ammo",
   "Infinite Bullets On Pickup",
   "Infinite Crowbars On Pickup",
@@ -24,8 +23,6 @@
   "Start On Level 2",
   "Infinite Bombs On Pickup",
   "Start With Infinite Items",
-  "Infinite Lives",
   "Infinite Handgun Ammo",
-  "Invulnerability",
   "Invulnerability"
 ]

@@ -2,7 +2,6 @@
   "Infinite Lives",
   "Invincible",
   "Invulnerability",
-  "Infinite Lives",
   "Start with ?? Lives, instead of 2",
   "Keep Primary Weapon Power after Dying",
   "Keep Secondary Weapon Power after Dying",
@@ -19,8 +18,5 @@
   "Unlock Hidden Comfort Difficulty in Options Menu",
   "Enable Debug Invincibility Cheat",
   "Enable Debug Infinite Lives Cheat",
-  "Enable Debug Invincibility Cheat",
-  "Enable Debug Infinite Lives Cheat",
-  "Disable Debug Invincibility and Infinite Lives Cheats",
-  "Enable Debug Options"
+  "Disable Debug Invincibility and Infinite Lives Cheats"
 ]

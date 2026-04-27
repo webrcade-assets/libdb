@@ -17,7 +17,6 @@
   "Continue With 5 Lives",
   "Continue With 7 Lives",
   "Continue With 9 Lives",
-  "Infinite Lives",
   "Infinite Lives On Bike Section",
   "More Lives On Ship Section",
   "Fewer Lives On Ship Section",
@@ -31,13 +30,11 @@
   "Infinite Time",
   "Super Jump",
   "Mega-Jump",
-  "Infinite Lives",
   "Infinite Health",
   "Torch Never Goes Out",
   "Infinite Bullets",
   "Infinite Whips",
   "High Score",
-  "Infinite Time",
   "Weapon Modifier",
   "Level Modifier"
 ]

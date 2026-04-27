@@ -10,7 +10,6 @@
   "Invincibility",
   "No Enemies",
   "Have Items Modifier",
-  "Infinite Missiles",
   "Infinite Life",
   "Infinite Energy Tanks",
   "Moon Jump [Turn Off Switch To Come Down]",
@@ -22,7 +21,6 @@
   "Start With About 165 Missiles",
   "Energy From Enemies Gives You 99 Life",
   "Energy Tanks, Missile Tanks, And Stuff Like Spider Ball And Ice Beam, Come Back When You Leave The Screen.",
-  "Debug Mode",
   "Don't Load Font When Resuming Saved Game",
   "Infinite Missiles (Variation)",
   "Have All Items",
@@ -57,7 +55,6 @@
   "Jump as high as you want",
   "Pause to see GAME CLEARED message",
   "Pause to see the ending",
-  "Title Screen Music Modifier",
   "Faster jump movement",
   "Faster morph ball speed",
   "Always Drop Item Modifier"

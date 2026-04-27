@@ -109,10 +109,7 @@
   "High pitched sounds from collecting power-ups, hearts, &amp; weapons",
   "Slide forward after landing from a jump",
   "Most enemies & items fall through the floor",
-  "Start On Level",
   "When You Swing Your Whip, It Makes The Invisible Potion Go Into Effect. Can't Break Any Blocks And Don't Jump And Swing Your Whip",
-  "Using Holy Water Advances You To The Next Stage",
-  "Infinite Hearts",
   "Infinite Time",
   "Infinite Health",
   "Infinite Lives",
@@ -136,7 +133,6 @@
   "Multishot Weapons Enabled",
   "Disable Medusa Heads",
   "Invincible (WalkThru Enemies)",
-  "Infinite Health",
   "Start On Stage 4 (More Stages In Note)",
   "Start On Stage 4 Wait For Demo First (More Stages In Note)"
 ]

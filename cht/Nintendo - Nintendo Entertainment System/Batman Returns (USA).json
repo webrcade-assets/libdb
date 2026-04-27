@@ -2,7 +2,6 @@
   "Untouchable by enemies, shots",
   "Infinite energy",
   "Infinite batarangs",
-  "Infinite Batarangs",
   "Start with 9 Batarangs",
   "Start with full energy",
   "Start with less energy",
@@ -34,6 +33,5 @@
   "2nd Enemy On Screen Dies With 1 Hit",
   "3rd Enemy On Screen Dies With 1 Hit",
   "Suit Palette Modifiers",
-  "Stage Select",
-  "Infinite Health"
+  "Stage Select"
 ]

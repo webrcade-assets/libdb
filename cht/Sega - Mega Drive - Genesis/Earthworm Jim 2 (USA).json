@@ -29,7 +29,6 @@
   "Don't flash as long after getting hit",
   "Flash longer after getting hit",
   "Infinite Energy",
-  "Infinite Energy",
   "Infinite Ammo First Weapon",
   "Infinite Ammo",
   "Invincibility",
@@ -39,8 +38,6 @@
   "Jim Runs Funny",
   "Infinite Worms (In Game Show Mini-Game)",
   "Infinite Puppies",
-  "Infinite Puppies",
-  "Invincibility",
   "Freeze Time in Level 2",
   "Walk Thru Walls",
   "Remove Enemies",
@@ -57,14 +54,8 @@
   "Enable Map View Mode",
   "Jump In Mid-Air (Multi Jumps)",
   "Infinite Jump",
-  "Invincibility",
   "Invincibility (blinking)",
-  "Infinite Health",
-  "Infinite Lives",
   "Infinite Continues",
-  "Infinite Ammo",
   "Pause the game and press any button to enter the debug menu",
-  "Pause the game and press Left to enter the debug menu",
-  "Pause the game and press any button to enter the debug menu",
-  "Invincibility"
+  "Pause the game and press Left to enter the debug menu"
 ]

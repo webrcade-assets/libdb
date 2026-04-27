@@ -1,8 +1,6 @@
 [
   "Freeze Cpu",
   "Freeze Time",
-  "Freeze Cpu",
-  "Freeze Time",
   "Invincibility",
   "Start A New Game With 100 Seconds",
   "Start A New Game With 999 Seconds",
@@ -13,7 +11,6 @@
   "Infinite Dash P1",
   "Master Code",
   "Characters Blink",
-  "Invincibility",
   "Invincibility P1 And P2 From Obstacles",
   "Invincibility P1 From P2/CPU",
   "Invincibility P2 From P1",

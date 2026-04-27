@@ -44,7 +44,6 @@
   "Alternate Infinite punch attribute beads",
   "Makes it possible to have no punch attributes assigned",
   "mirror match",
-  "mirror match",
   "player 1 color is changed",
   "CPU doesn't fight back",
   "CPU doesn't come out to fight",
@@ -80,7 +79,6 @@
   "Far Boxer Modifier",
   "Play as ranked competitor modifier",
   "Referee moonwalks",
-  "Alternate Infinite Punch Attribute Beads",
   "Once a Punch Attribute Bead is Used, it Can't be Used for Another Punch",
   "Player 1 wins by KO Instantly",
   "Player 2 wins by KO Instantly",
@@ -97,7 +95,5 @@
   "P2 Infinite Super Punches",
   "P2 No Super Punches",
   "Infinite Round Time",
-  "Freeze Round Timer",
-  "P1 Infinite Health",
-  "P2 Infinite Health"
+  "Freeze Round Timer"
 ]

@@ -2,7 +2,6 @@
   "Miscellaneous Codes",
   "Max/Infinite Money",
   "Bonus Points",
-  "Max/Infinite Money",
   "Item Codes",
   "All Consumables x99",
   "All Capsules x99",
@@ -22,12 +21,5 @@
   "x32",
   "x64",
   "x128",
-  "AP Multiplier",
-  "x2",
-  "x4",
-  "x8",
-  "x16",
-  "x32",
-  "x64",
-  "x128"
+  "AP Multiplier"
 ]

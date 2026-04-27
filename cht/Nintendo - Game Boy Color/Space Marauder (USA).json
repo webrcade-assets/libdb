@@ -6,7 +6,6 @@
   "Stop Screen Code [Turn Off To Move]",
   "Score Modifier",
   "Max Score",
-  "Infinite Lives",
   "Infinite Bombs",
   "Unendlich Leben",
   "Habe L-Waffe",
@@ -15,8 +14,5 @@
   "Unendlich R-Waffe",
   "Habe M-Waffe",
   "Unendlich M-Waffe",
-  "Score Modifier",
-  "Max Score",
-  "Start With 99 Lives",
-  "Infinite Lives"
+  "Start With 99 Lives"
 ]

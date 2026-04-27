@@ -15,8 +15,6 @@
   "Skipper Walk Through Enemies",
   "Gilligan Walk Through Enemies",
   "Gilligan Walk On Water, Sand, Mud",
-  "Start On Episode 2",
-  "Start On Episode 3",
   "Infinite Time (Minutes)",
   "Infinite Time (Seconds)",
   "Infinite Health",
@@ -25,6 +23,5 @@
   "Sound Screwer",
   "Episode Modifier (00-03)",
   "Infinite Food",
-  "Infinite Rope",
   "Infinite Tablets"
 ]

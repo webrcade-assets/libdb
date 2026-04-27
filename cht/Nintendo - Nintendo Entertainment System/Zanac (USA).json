@@ -6,7 +6,6 @@
   "Start with 1 life",
   "Start with 6 lives",
   "Start with 9 lives",
-  "Infinite lives",
   "Start with Straight Crusher",
   "Start with Field Shutter",
   "Start with the Circular",
@@ -23,7 +22,5 @@
   "Invincibility",
   "Temporary Invincibility after Dying and at Start of Level Lasts 2x Longer",
   "Temporary Invincibility after Dying and at Start of Level Lasts 3x Longer",
-  "Temporary Invincibility after Dying and at Start of Level Lasts 4x Longer",
-  "Infinite Time",
-  "Invincibility"
+  "Temporary Invincibility after Dying and at Start of Level Lasts 4x Longer"
 ]

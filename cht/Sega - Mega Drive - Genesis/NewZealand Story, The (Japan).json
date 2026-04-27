@@ -5,7 +5,6 @@
   "Start A New Game With 9 Lives",
   "Start A New Game With 20 Lives",
   "Start A New Game With 99 Lives",
-  "Infinite Lives",
   "Invincible (Flashing)",
   "Can Shoot Through Walls",
   "Can Walk through Walls",
@@ -14,7 +13,6 @@
   "High Moon Jump With Slow Descent",
   "Much Higher Moon Jump With Slow Descent",
   "Don't Fall When You Walk Off Any Ledge (Walk On Air)",
-  "Invincibility",
   "Master Code",
   "1 Shot Kill Bosses",
   "Your Hover Platform Is Nnvincible (Except Against Spikes)",
@@ -24,13 +22,9 @@
   "1 Hit Invincibility",
   "Invincibility Enabled",
   "Invincibility Disabled",
-  "Infinite Lives",
   "Infinite Continues",
   "Infinite Time",
   "Infinite Time Underwater",
   "Invincibility (Disable Hit Detection)",
-  "Freeze Time Power Meter Oxygen Underwater",
-  "Infinite Continues",
-  "Infinite Time",
-  "Infinite Time Underwater"
+  "Freeze Time Power Meter Oxygen Underwater"
 ]

@@ -44,9 +44,6 @@
   "Press SELECT to Refill Hearts",
   "Infinite HP/MP/Hearts (Toggleable)",
   "Must Be On: Button Activators",
-  "Infinite HP",
-  "Infinite MP",
-  "Infinite Hearts",
   "Status Codes",
   "Max Stats",
   "Max Stats (Version 2)",
@@ -337,6 +334,5 @@
   "Lucky Clover",
   "Theif Ring",
   "Master Ring",
-  "Speed Modifier Codes",
-  "x2"
+  "Speed Modifier Codes"
 ]

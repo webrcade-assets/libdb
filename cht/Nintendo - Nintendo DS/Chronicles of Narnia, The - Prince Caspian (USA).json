@@ -41,9 +41,7 @@
   "Active Party Member #1",
   "Max/Infinite Health",
   "Active Party Member #2",
-  "Max/Infinite Health",
   "Active Party Member #3",
-  "Max/Infinite Health",
   "Experience Multiplier Codes",
   "x2",
   "x4",
@@ -56,11 +54,5 @@
   "Super Experience",
   "Max Experience",
   "Damage Multiplier Codes",
-  "Always 9999 Damage",
-  "x2",
-  "x4",
-  "x8",
-  "x16",
-  "x32",
-  "x64"
+  "Always 9999 Damage"
 ]

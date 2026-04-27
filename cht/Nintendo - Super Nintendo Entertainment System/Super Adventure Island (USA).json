@@ -9,7 +9,6 @@
   "Start with 25 lives",
   "Start with 50 lives",
   "Start with 99 lives",
-  "Infinite lives",
   "Start with 1 credit",
   "Start with 6 credits",
   "Infinite credits",
@@ -51,6 +50,5 @@
   "Always Have Max Fireball Weapon",
   "Always Have Max Boomerang Fireball Weapon",
   "Always Have Max Hammer Weapon",
-  "Invincibility Against Stage 2 Octopus Boss",
-  "Jump in Midair"
+  "Invincibility Against Stage 2 Octopus Boss"
 ]

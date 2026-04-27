@@ -13,7 +13,6 @@
   "Start with 25 lives [Normal/Hard only]",
   "Start with 50 lives [Normal/Hard only]",
   "Start with 99 lives [Normal/Hard only]",
-  "Infinite lives",
   "Start with 1 continue [Easy/Normal only]",
   "Start with 2 continues [Easy/Normal only]",
   "Start with 5 continues [Easy/Normal only]",
@@ -52,11 +51,9 @@
   "Start on level 11",
   "Start on level 12",
   "Hit Anywhere",
-  "Infinite Lives",
   "Invincibility",
   "Multi-Jump",
   "Jump to any Height (Hold Jump to go higher, release to descend)",
   "Jump Height Modifier",
-  "Invincibility",
   "Don't Get Pushed Back By Wind"
 ]

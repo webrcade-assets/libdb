@@ -9,9 +9,7 @@
   "Start with less time",
   "Infinite Health",
   "Infinite Lives",
-  "Start with 9 lives",
   "Infinite Energy",
-  "Infinite Lives",
   "Infinite Time",
   "Enemies Continually Hit Anywhere (Excludes Bosses)",
   "Collect Items From Anywhere",
@@ -19,7 +17,5 @@
   "Suit Color Modifier",
   "Hair/Helmet Color Modifier",
   "Weapon Modifier",
-  "Infinite Time (Seconds Digits)",
-  "Infinite Health",
-  "Infinite Lives"
+  "Infinite Time (Seconds Digits)"
 ]

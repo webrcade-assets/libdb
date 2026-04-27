@@ -11,7 +11,6 @@
   "Terry's crouching kick doesn't do damage",
   "Terry's crouching kick kills",
   "Faster timer",
-  "Infinite time",
   "Start Rounds With 10 Seconds",
   "Start Rounds With 20 Seconds",
   "Start Rounds With 30 Seconds",
@@ -29,6 +28,5 @@
   "P1 Character Modifier",
   "P2 Character Modifier",
   "Stage Modifier",
-  "Hit Anywhere",
-  "Infinite Credits"
+  "Hit Anywhere"
 ]

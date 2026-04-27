@@ -2,11 +2,8 @@
   "Infinite Lives",
   "Infinite G-Bombs",
   "Start With 9 Lives",
-  "Infinite Lives",
   "Start With 9 G-Bombs - 1st Life",
   "Start With 9 G-Bombs - After 1st Life",
-  "Infinite G-Bombs",
-  "Invulnerability",
   "Invulnerability",
   "Keep Primary Weapon Power after Dying",
   "Keep Secondary Weapon Power after Dying",
@@ -16,6 +13,5 @@
   "Max Secondary Weapon Power",
   "Secondary Weapon Modifier",
   "Stage Modifier",
-  "Invincibility",
   "Invincibility"
 ]
