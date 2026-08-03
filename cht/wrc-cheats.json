@@ -52222,6 +52222,127 @@
       }
     }
   },
+  "32x": {
+    "path": "cht/Sega - 32X",
+    "games": {
+      "After Burner Complete After Burner (Japan, USA)": {
+        "file": "After Burner Complete _ After Burner (Japan, USA).cht",
+        "count": 6
+      },
+      "Amazing Spider-Man, The - Web of Fire (USA)": {
+        "file": "Amazing Spider-Man, The - Web of Fire (USA).cht",
+        "count": 8
+      },
+      "Brutal - Above the Claw (USA)": {
+        "file": "Brutal - Above the Claw (USA).cht",
+        "count": 8
+      },
+      "Chaotix Knuckles' Chaotix (Japan, USA)": {
+        "file": "Chaotix _ Knuckles' Chaotix (Japan, USA).cht",
+        "count": 53
+      },
+      "Cyber Brawl Cosmic Carnage (Japan, USA)": {
+        "file": "Cyber Brawl _ Cosmic Carnage (Japan, USA).cht",
+        "count": 19
+      },
+      "Darxide (Europe) (En,Fr,De,Es)": {
+        "file": "Darxide (Europe) (En,Fr,De,Es).cht",
+        "count": 2
+      },
+      "Doom (Europe)": {
+        "file": "Doom (Europe).cht",
+        "count": 23
+      },
+      "Doom (Japan, USA)": {
+        "file": "Doom (Japan, USA).cht",
+        "count": 35
+      },
+      "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)": {
+        "file": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA).cht",
+        "count": 3
+      },
+      "Knuckles' Chaotix (Europe)": {
+        "file": "Knuckles' Chaotix (Europe).cht",
+        "count": 3
+      },
+      "Kolibri (USA, Europe)": {
+        "file": "Kolibri (USA, Europe).cht",
+        "count": 1
+      },
+      "Metal Head (Japan, USA) (En,Ja)": {
+        "file": "Metal Head (Japan, USA) (En,Ja).cht",
+        "count": 35
+      },
+      "Mortal Kombat II (Europe)": {
+        "file": "Mortal Kombat II (Europe).cht",
+        "count": 107
+      },
+      "Mortal Kombat II (Japan, USA)": {
+        "file": "Mortal Kombat II (Japan, USA).cht",
+        "count": 82
+      },
+      "Mortal Kombat II (USA) (Rev B)": {
+        "file": "Mortal Kombat II (USA) (Rev B).cht",
+        "count": 1
+      },
+      "NBA Jam - Tournament Edition (World)": {
+        "file": "NBA Jam - Tournament Edition (World).cht",
+        "count": 133
+      },
+      "Parasquad Zaxxon's Motherbase 2000 (Japan, USA)": {
+        "file": "Parasquad _ Zaxxon's Motherbase 2000 (Japan, USA).cht",
+        "count": 1
+      },
+      "Pitfall - The Mayan Adventure (USA)": {
+        "file": "Pitfall - The Mayan Adventure (USA).cht",
+        "count": 21
+      },
+      "Primal Rage (USA, Europe)": {
+        "file": "Primal Rage (USA, Europe).cht",
+        "count": 10
+      },
+      "RBI Baseball '95 (USA)": {
+        "file": "RBI Baseball '95 (USA).cht",
+        "count": 7
+      },
+      "Space Harrier (Japan, USA)": {
+        "file": "Space Harrier (Japan, USA).cht",
+        "count": 7
+      },
+      "Star Wars Arcade (USA)": {
+        "file": "Star Wars Arcade (USA).cht",
+        "count": 9
+      },
+      "T-MEK (USA, Europe)": {
+        "file": "T-MEK (USA, Europe).cht",
+        "count": 5
+      },
+      "Tempo (Japan, USA)": {
+        "file": "Tempo (Japan, USA).cht",
+        "count": 8
+      },
+      "Toughman Contest (USA, Europe)": {
+        "file": "Toughman Contest (USA, Europe).cht",
+        "count": 8
+      },
+      "Virtua Fighter (Japan, USA)": {
+        "file": "Virtua Fighter (Japan, USA).cht",
+        "count": 7
+      },
+      "Virtua Racing Deluxe (USA)": {
+        "file": "Virtua Racing Deluxe (USA).cht",
+        "count": 10
+      },
+      "WWF Raw (World)": {
+        "file": "WWF Raw (World).cht",
+        "count": 20
+      },
+      "WWF WrestleMania - The Arcade Game (USA)": {
+        "file": "WWF WrestleMania - The Arcade Game (USA).cht",
+        "count": 8
+      }
+    }
+  },
   "segacd": {
     "path": "cht/Sega - Mega-CD - Sega CD",
     "games": {
