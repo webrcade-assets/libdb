@@ -59596,6 +59596,163 @@
       }
     }
   },
+  "jaguar": {
+    "path": "cht/Atari - Jaguar",
+    "games": {
+      "Aircars": {
+        "file": "Aircars.cht",
+        "count": 9
+      },
+      "Alien Vs Predator": {
+        "file": "Alien Vs Predator.cht",
+        "count": 12
+      },
+      "Atari Karts": {
+        "file": "Atari Karts.cht",
+        "count": 2
+      },
+      "Breakout 2000": {
+        "file": "Breakout 2000.cht",
+        "count": 3
+      },
+      "Brutal Sports Football": {
+        "file": "Brutal Sports Football.cht",
+        "count": 7
+      },
+      "Bubsy - Fractured Furry Tales": {
+        "file": "Bubsy - Fractured Furry Tales.cht",
+        "count": 3
+      },
+      "Cannon Fodder": {
+        "file": "Cannon Fodder.cht",
+        "count": 3
+      },
+      "Checkered Flag": {
+        "file": "Checkered Flag.cht",
+        "count": 5
+      },
+      "Cybermorph (1mb) (Rev A) (1993)": {
+        "file": "Cybermorph (1mb) (Rev A) (1993).cht",
+        "count": 2
+      },
+      "Cybermorph (2mb) (Rev B) (1993)": {
+        "file": "Cybermorph (2mb) (Rev B) (1993).cht",
+        "count": 2
+      },
+      "Defender 2000": {
+        "file": "Defender 2000.cht",
+        "count": 4
+      },
+      "Doom": {
+        "file": "Doom.cht",
+        "count": 17
+      },
+      "Double Dragon V - The Shadow Falls": {
+        "file": "Double Dragon V - The Shadow Falls.cht",
+        "count": 6
+      },
+      "Dragon - The Bruce Lee Story": {
+        "file": "Dragon - The Bruce Lee Story.cht",
+        "count": 6
+      },
+      "Evolution Dino Dudes": {
+        "file": "Evolution Dino Dudes.cht",
+        "count": 2
+      },
+      "Fever Pitch Soccer": {
+        "file": "Fever Pitch Soccer.cht",
+        "count": 3
+      },
+      "Fight For Life": {
+        "file": "Fight For Life.cht",
+        "count": 4
+      },
+      "Flashback": {
+        "file": "Flashback.cht",
+        "count": 1
+      },
+      "Frog Feast (World)": {
+        "file": "Frog Feast (World).cht",
+        "count": 3
+      },
+      "Hover Strike": {
+        "file": "Hover Strike.cht",
+        "count": 4
+      },
+      "I-War": {
+        "file": "I-War.cht",
+        "count": 3
+      },
+      "Kasumi Ninja": {
+        "file": "Kasumi Ninja.cht",
+        "count": 2
+      },
+      "NBA Jam - Tournament Edition": {
+        "file": "NBA Jam - Tournament Edition.cht",
+        "count": 4
+      },
+      "Native (USA) (Proto)": {
+        "file": "Native (USA) (Proto).cht",
+        "count": 2
+      },
+      "Pitfall - The Mayan Adventure": {
+        "file": "Pitfall - The Mayan Adventure.cht",
+        "count": 6
+      },
+      "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)": {
+        "file": "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).cht",
+        "count": 7
+      },
+      "Protector (World)": {
+        "file": "Protector (World).cht",
+        "count": 6
+      },
+      "Rayman": {
+        "file": "Rayman.cht",
+        "count": 30
+      },
+      "Soccer Kid (World)": {
+        "file": "Soccer Kid (World).cht",
+        "count": 3
+      },
+      "Tempest 2000": {
+        "file": "Tempest 2000.cht",
+        "count": 4
+      },
+      "Tiny Toon Adventures (USA) (Proto)": {
+        "file": "Tiny Toon Adventures (USA) (Proto).cht",
+        "count": 5
+      },
+      "Total Carnage (World)": {
+        "file": "Total Carnage (World).cht",
+        "count": 2
+      },
+      "Trevor McFur In The Crescent Galaxy": {
+        "file": "Trevor McFur In The Crescent Galaxy.cht",
+        "count": 10
+      },
+      "Troy Aikman NFL Football": {
+        "file": "Troy Aikman NFL Football.cht",
+        "count": 3
+      },
+      "Ultra Vortek": {
+        "file": "Ultra Vortek.cht",
+        "count": 3
+      },
+      "Val D'Isere Skiing And Snowboarding": {
+        "file": "Val D'Isere Skiing And Snowboarding.cht",
+        "count": 4
+      },
+      "Wolfenstein 3D": {
+        "file": "Wolfenstein 3D.cht",
+        "count": 9
+      },
+      "Zool 2": {
+        "file": "Zool 2.cht",
+        "count": 3
+      }
+    }
+  },
   "psx": {
     "path": "cht/Sony - PlayStation",
     "games": {
